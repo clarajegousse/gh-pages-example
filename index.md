@@ -10,3 +10,4 @@ title: Example
 - Some event
 - Another exciting event
 - More news
+- And a lot of fun!
