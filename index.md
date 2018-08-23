@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Example
+title: My first page on GitHub
 ---
 
 # Example project
